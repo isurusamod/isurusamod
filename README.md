@@ -13,7 +13,7 @@
 
 - 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
 
-- 💬 Ask me about **0702019784**
+- 💬 Ask me about this is my [Mobile](https://api.whatsapp.com/send?phone=94702019784&text=Hello)
 
 - 📫 How to reach me **isurusamod999@gmail.com**
 
