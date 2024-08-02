@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Isuru samod</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hy+Im+Isuru+Samod+Kularathna..&hearts;++;Welcome+To+My+Profile"></a>
+</p>
+
+
 <h3 align="center">A passionate Fullstack developer skilled in both front-end and back-end development. I love building clean, efficient, and user-friendly web applications. Open to new projects and collaborations!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-samod&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-samod" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru-samod&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-samod" /> </p>
 
 ---
 
 - 🌱 I’m currently learning **Updated framework**
 
-- 👨‍💻 All of my projects are available at [https://isurusamod.github.io/isurusamod-portfolio/](https://isurusamod.github.io/isurusamod-portfolio/)
+- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
 
 - 💬 Ask me about **0702019784**
 
 - 📫 How to reach me **isurusamod999@gmail.com**
 
-- 📄- Personal website [portfolio](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
+- 📄 Personal website [portfolio](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
 
- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
+
 - ⚡ Fun fact **call me as samod**
 
 <h3 align="center">Connect with me:</h3>
