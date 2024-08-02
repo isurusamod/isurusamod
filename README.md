@@ -37,7 +37,6 @@
 <a href="https://fb.com/https://www.facebook.com/isuru.samod?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/isuru.samod?mibextid=zbwkwl" height="50" width="50" /></a>
 <a href="https://www.behance.net/https://www.behance.net/isurusamodportfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/isurusamodportfolio" height="50" width="50" /></a>
 </p>
-
 ---
 
 <h3 align="center">Languages and Tools:</h3>
