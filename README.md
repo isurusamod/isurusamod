@@ -40,7 +40,10 @@
 <a href="https://www.facebook.com/isuru.samod?mibextid=ZbWKwL" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="50" width="50" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/isurusamodportfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/isurusamodportfolio" height="50" width="50" /></a>
+
+<a href="https://www.behance.net/isurusamodportfolio" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance Profile" height="50" width="50" />
+</a>
 <a href="https://api.whatsapp.com/send/?phone=%2B94702019784&text&app_absent=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="50" width="50" /></a>
 </p>
 ---
