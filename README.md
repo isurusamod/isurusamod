@@ -21,8 +21,6 @@
 
 - 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
 
-- 💬 Ask me about this is my [Mobile](https://api.whatsapp.com/send?phone=94702019784&text=Hello)
-
 - 📫 How to reach me **isurusamod999@gmail.com**
 
 - 📄 Personal website [portfolio](https://isurusamod.github.io/isurusamod-portfolio/)
@@ -36,6 +34,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isuru-samod-3b7279214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/isuru-samod-3b7279214/)" height="50" width="50" /></a>
 <a href="https://fb.com/https://www.facebook.com/isuru.samod?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/isuru.samod?mibextid=zbwkwl" height="50" width="50" /></a>
 <a href="https://www.behance.net/https://www.behance.net/isurusamodportfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/isurusamodportfolio" height="50" width="50" /></a>
+<a href="https://api.whatsapp.com/send/?phone=%2B94702019784&text&app_absent=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="50" width="50" /></a>
 </p>
 ---
 
