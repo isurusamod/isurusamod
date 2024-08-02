@@ -5,7 +5,7 @@
 ---
 
 
-<h3 align="center">A passionate Fullstack developer skilled in both front-end and back-end development. I love building clean, efficient, and user-friendly web applications. Open to new projects and collaborations!</h3>
+<h3 align="center">Hi, I'm Isuru Samod! A passionate Fullstack developer skilled in both front-end and back-end development. I love building clean, efficient, and user-friendly web applications. Open to new projects and collaborations!</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru-samod&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-samod" /> 
