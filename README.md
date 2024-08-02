@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **isurusamod999@gmail.com**
 
-- 📄 Personal website [portfolio](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
+- 📄 Personal website [portfolio](https://isurusamod.github.io/isurusamod-portfolio/)
 
 
 - ⚡ Fun fact **call me as samod**
