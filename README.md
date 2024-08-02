@@ -2,12 +2,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hy+Im+Isuru+Samod+Kularathna..&hearts;++;Welcome+To+My+Profile"></a>
 </p>
 
+---
+
+
 <h3 align="center">A passionate Fullstack developer skilled in both front-end and back-end development. I love building clean, efficient, and user-friendly web applications. Open to new projects and collaborations!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru-samod&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-samod" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru-samod&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-samod" /> 
+
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isurusamod&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
----
+
 
 - 🌱 I’m currently learning **Updated framework**
 
