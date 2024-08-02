@@ -15,7 +15,7 @@
 
 - 📄- Personal website [portfolio](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
 
-- 
+ - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
 - ⚡ Fun fact **call me as samod**
 
 <h3 align="center">Connect with me:</h3>
