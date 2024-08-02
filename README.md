@@ -17,9 +17,9 @@
 
 
 
-- 🌱 I’m currently learning **Updated framework**
+- 🌱 I’m currently learning **Updated New framework ,new technology and new tools**
 
-- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
+- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
 
 - 💬 Ask me about this is my [Mobile](https://api.whatsapp.com/send?phone=94702019784&text=Hello)
 
