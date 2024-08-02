@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer skilled in both front-end and back-end development. I love building clean, efficient, and user-friendly web applications. Open to new projects and collaborations!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuru-samod&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-samod" /> </p>
-
+---
 - 🌱 I’m currently learning **Updated framework**
 
 - 👨‍💻 All of my projects are available at [https://isurusamod.github.io/isurusamod-portfolio/](https://isurusamod.github.io/isurusamod-portfolio/)
