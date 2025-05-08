@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Updated New framework ,new technology and new tools**
 
-- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
+- 👨‍💻 This is [My Resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
 
 - 📫 How to reach me **isurusamod999@gmail.com**
 
@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/isuru-samod-3b7279214/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="50" width="50" />
