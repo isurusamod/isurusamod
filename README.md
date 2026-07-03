@@ -1,57 +1,143 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p><p align="center">
- <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hy+Im+Isuru+Samod+Kularathna..&hearts;++;Welcome+To+My+Git+Account"></a>
-</p>
-
----
-
-
-<h3 align="center">Hi, I'm Isuru Samod! A passionate Fullstack developer skilled in both front-end and back-end development. I love building clean, efficient, and user-friendly web applications. Open to new projects and collaborations!</h3>
-
-
- 
-
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-</p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isurusamod&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
----
-
-- 🌱 I’m currently learning **Updated New framework ,new technology and new tools**
-
-- 👨‍💻 This is [My Resume](https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view?usp=sharing)
-
-- 📫 How to reach me **isurusamod999@gmail.com**
-
-- 📄 Personal website [portfolio](https://isurusamod.github.io/isurusamod-portfolio/)
-
-- ⚡ Fun fact **call me as samod**
-
----
-
-<h3 align="center">Connect me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/isuru-samod-3b7279214/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="50" width="50" />
-  </a>
-  <a href="https://www.facebook.com/isuru.samod?mibextid=ZbWKwL" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="50" width="50" />
-  </a>
-  <a href="https://www.behance.net/isurusamodportfolio" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance Profile" height="50" width="50" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B94702019784&text&app_absent=0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="50" width="50" />
-  </a>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" />
 </p>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a> </p>
-
----
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Isuru+Samod;Full+Stack+Developer;WordPress+%7C+React+%7C+Laravel+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<h1 align="center">🚀 Welcome to My GitHub</h1>
+
+<h3 align="center">
+Passionate Full Stack Developer from Sri Lanka 🇱🇰<br>
+Specialized in Modern Web Development, WordPress, Laravel, React, Shopify, HubSpot & AI-powered Solutions.
+</h3>
+
+---
+
+<img align="right" width="420" src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif"/>
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack Web Developer
+- 🌱 Currently learning **Next.js, TypeScript, AI Integration, Cloud Technologies & DevOps**
+- 🚀 Passionate about building scalable, responsive, and user-friendly web applications.
+- 🤝 Open to Freelance Projects & Full-Time Opportunities.
+- 💡 Always exploring new frameworks, tools, and emerging technologies.
+- ⚡ Fun Fact: **Everyone calls me Samod 😄**
+
+---
+
+## 📄 Resume
+
+📄 **Resume**
+
+https://drive.google.com/file/d/1-5sP5HVPVwkVOyNV37DmFVUWEBzU6za5/view
+
+---
+
+## 🌐 Portfolio
+
+🌍 https://isurusamod.github.io/isurusamod-portfolio/
+
+---
+
+## 📫 Contact Me
+
+📧 **Email**
+
+isurusamod999@gmail.com
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/isuru-samod-3b7279214/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://www.facebook.com/isuru.samod?mibextid=ZbWKwL" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="55"/>
+</a>
+
+<a href="https://www.behance.net/isurusamodportfolio" target="_blank">
+<img src="https://skillicons.dev/icons?i=behance" height="55"/>
+</a>
+
+<a href="https://api.whatsapp.com/send/?phone=%2B94702019784" target="_blank">
+<img src="https://skillicons.dev/icons?i=discord" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,nextjs,nodejs,express,php,laravel,wordpress,mysql,mongodb,firebase,java,cpp,python,git,github,docker,figma,vscode,postman,linux" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isurusamod&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurusamod&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isurusamod&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=isurusamod&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isurusamod&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 💬 Quote
+
+<p align="center">
+
+> *"Code. Learn. Build. Improve. Repeat."* 🚀
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=isurusamod&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
 </p>
